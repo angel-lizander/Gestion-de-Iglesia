@@ -1,0 +1,10 @@
+Llamar campo y ponerlo por defecto C#
+
+ var f = new Actualizar();
+                    f.Show();
+                    Actualizar.Myform.txtNombre.Text = "Angel Lizander";
+
+
+En botones checked
+
+En lista selectedValue
